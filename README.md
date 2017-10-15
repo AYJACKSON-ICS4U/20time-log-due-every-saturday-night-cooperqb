@@ -7,3 +7,6 @@ _Saturday, September 30th, 2017_ -
   
   _Saturday, October 7th, 2017_ -
     There was no physical progress made on my end in terms of the development of the game, however I did spent some time trying to familiarize myself with the basics of Unreal Engine 4 by watching and programming along to a few video tutorials. Using this knowledge I plan to begin the creation of our games's levels, and it's music next week.
+    
+_Saturday, October 14th, 2017_ -
+  This week I designed a few different mechanics for our game, including room types, and power ups. The room types include long battle rooms, regular battle rooms, shop rooms (rooms where you can buy items), boss rooms (rooms where you fight bosses), and power up rooms (rooms where you can receive bonus power ups at the expense of maximum health). I also designed a few different offensive and defensive power ups for the alien. These would include stat boosting power up for rate of fire, projectile size and damage, and projectile speed. Some other power ups include an activatable 0.5 second invinsibility power up, bonus health, projectiles which block damage, and an orbiting shield. My plan for next week will be to start programming basic rooms into unreal engine 4.
